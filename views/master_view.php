@@ -49,10 +49,10 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="brand" href="#">Testly</a>
+			<a class="brand" href="#">Parts</a>
 			<div class="nav-collapse collapse">
 				<ul class="nav">
-					<li class="active"><a href="<?=BASE_URL?>tests">Testid</a></li>
+					<li class="active"><a href="<?=BASE_URL?>parts">Auto osad</a></li>
 					<li><a href="#about">Info</a></li>
 					<li><a href="<?=BASE_URL?>auth/logout">Logi välja</a></li>
 				</ul>
@@ -74,3 +74,4 @@
 
 </body>
 </html>
+sten.mehilane@khk.ee
